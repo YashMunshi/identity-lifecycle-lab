@@ -4,7 +4,11 @@ Reconcile joiners, transfers, and departures into an inspectable provisioning pl
 
 **Field:** Identity & access management  
 **Relevant roles:** IAM Engineer I · Identity Security Analyst  
-**Status:** working prototype; hosting status is tracked separately.
+**Status:** working prototype, published on GitHub and Vercel.
+
+[**Open the live interactive lab**](https://identity-lifecycle-lab.vercel.app/)
+
+The hosted lab runs synthetic exercises in your browser. See the scope below for local integration exercises and limitations.
 
 ## Run
 
